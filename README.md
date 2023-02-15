@@ -1,3 +1,7 @@
+A fork of Simplify.js, modified to expect an array of points in a [x, y] format.
+
+---
+
 Simplify.js is a high-performance JavaScript polyline simplification library by Vladimir Agafonkin, extracted from [Leaflet](http://leafletjs.com).
 
 Checkout the demo with docs: http://mourner.github.io/simplify-js/
